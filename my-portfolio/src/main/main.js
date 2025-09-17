@@ -312,7 +312,7 @@ export default function Main() {
             <MetaBar />
             <Hero offset={offset} />
             <Works onOpen={setCurrent} />
-            <footer className="main-foot">© {new Date().getFullYear()} Kim Jiwoo Protfolio.</footer>
+            <footer className="main-foot">© {new Date().getFullYear()} Kim Jiwoo Portfolio.</footer>
             <Modal item={current} onClose={() => setCurrent(null)} />
         </div>
     );
