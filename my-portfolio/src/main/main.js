@@ -17,8 +17,11 @@ const COLLECTIONS = [
                 cover: "https://i.imgur.com/AvQ7t7f.png",
                 media: { type: "youtube", id: "JzIyspXKFQo" },
                 content: [
-                    "기존 크라우드 펀딩 사이트를 기반한 직관적인 UI/UX 적용.",
-                    "실시간 채팅을 기반으로 원활한 정보 공유가 가능하여 펀딩 참여 흐름을 설계.",
+                    "- 개발 파트: 메인 및 인기 페이지, 결제, 관심/알림, 마이페이지와 프로젝트, 헬프센터 패이지 개발.",
+                    "- 담당 역할: 문서 작업 및 기획, 결과 도출, 커뮤니티 및 기타 기능 개발, 서류 정리.",
+                    <br/>,
+                    "- 기존 크라우드 펀딩 사이트를 기반한 직관적인 UI/UX 적용.",
+                    "- 실시간 채팅을 기반으로 원활한 정보 공유가 가능하여 펀딩 참여 흐름을 설계.",
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/First-teamProject.git" },
@@ -35,8 +38,11 @@ const COLLECTIONS = [
                 cover: "https://i.imgur.com/vk6TOlR.png",
                 media: { type: "youtube", id: "cG7USoPdRxU" },
                 content: [
-                    "날씨 API를 이용한 실시간 날씨 확인 및 여행지 장소 탐색 기능.",
-                    "사이트 자체 커뮤니티 페이지로 실시간 반응 및 정보 공유 흐름 설계.",
+                    "- 개발 파트: 오디오 해설, FAQ 및 실시간 채팅 상담 페이지, 테마 페이지, 커뮤니티 페이지",
+                    "- 담당 역할: 문서 작업 및 기획, 결과 정리 및 발표, 페이지 개발, 서류 정리.",
+                    <br/>,
+                    "- 날씨 API를 이용한 실시간 날씨 확인 및 여행지 장소 탐색 기능.",
+                    "- 사이트 자체 커뮤니티 페이지로 실시간 반응 및 정보 공유 흐름 설계.",
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/Second-teamProject.git" },
@@ -53,8 +59,9 @@ const COLLECTIONS = [
                 cover: "https://i.imgur.com/ujFYBxc.png",
                 media: { type: "youtube", id: "OAKXZqCyrPU" },
                 content: [
-                    "게임 참여자 탐색 내용을 기반으로 한 매뉴얼 사이트.",
-                    "화면 연출 효과와 사이트 자체 이스터에그를 통한 활발한 참여 유도.",
+                    "- 요청받아 제작한 1인 개발.",
+                    "- 게임 참여자 탐색 내용을 기반으로 한 매뉴얼 사이트.",
+                    "- 화면 연출 효과와 사이트 자체 이스터에그를 통한 활발한 참여 유도.",
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/YOURCAST.git" },
@@ -71,8 +78,11 @@ const COLLECTIONS = [
                 cover: "https://i.imgur.com/jSa5RTI.png",
                 media: { type: "youtube", id: "XIZwazog7xI" },
                 content: [
-                    "검색/필터, 장소 상세, 리뷰, 북마크, 알림까지 유기적으로 연결.",
-                    "관리자 대시보드로 식당 및 사용자 관리, 신고/블라인드, 태그 관리 등 기능 제공.",
+                    "- 개발 파트: 관리자 페이지(로그인, 메인, 사용자, 식당, 컨텐츠 관리, 분석 대시보드.",
+                    "- 담당 역할: 문서 작업 및 기획, 관리자 페이지 개발, 서류 정리.",
+                    <br/>,
+                    "- 검색/필터, 장소 상세, 리뷰, 북마크, 알림까지 유기적으로 연결.",
+                    "- 관리자 대시보드로 식당 및 사용자 관리, 신고/블라인드, 태그 관리 등 기능 제공.",
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/Third-teamProject.git" },
