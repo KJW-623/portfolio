@@ -25,7 +25,7 @@ const COLLECTIONS = [
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/First-teamProject.git" },
-                    { label: "기획문서", href: "#" },
+                    { label: "문서", href: "https://drive.google.com/drive/folders/1YG6E3xj5lkgn-EuxgXrW-evyPIU8kWp1?usp=sharing" },
                 ],
             },
             {
@@ -46,7 +46,7 @@ const COLLECTIONS = [
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/Second-teamProject.git" },
-                    { label: "기획문서", href: "#" },
+                    { label: "문서", href: "https://drive.google.com/drive/folders/1Ol_hNjkkIAW-jCM6RImHmDhn2rWQXo9f?usp=sharing" },
                 ],
             },
             {
@@ -86,7 +86,7 @@ const COLLECTIONS = [
                 ],
                 links: [
                     { label: "GitHub", href: "https://github.com/KJW-623/Third-teamProject.git" },
-                    { label: "기획문서", href: "#" },
+                    { label: "문서", href: "https://drive.google.com/drive/folders/1PvTiW5yNt20CV5qL0a431WjFbQvZq8Za?usp=sharing" },
                 ],
             },
         ],
